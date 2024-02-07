@@ -18,6 +18,11 @@
   --font-color-three: #ebebeb;
 }
 
+html{
+
+  scroll-behavior: smooth;
+}
+
 /* RESETS */
 * {
   margin: 0px;
